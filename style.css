@@ -21,10 +21,32 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
+    cursor: pointer;
+}
+
+#title {
+    text-align: center;
+    margin-top: 2%;
+    font-size: 28px;
+}
+
+#description-container {
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 7px;
+    padding: 1%;
+    margin: 1%;
+}
+
+
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: lightblue;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -72,4 +94,9 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px rgba(173, 216, 230, 0.734);
 }
