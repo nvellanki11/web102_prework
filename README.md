@@ -25,7 +25,7 @@ with website header, realigned introduction text
 
 Here's a walkthrough of implemented features:
 
-<img src='file:///Users/nishantvellanki/Downloads/Kapture%202026-03-15%20at%2023.03.48.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Kapture 2026-03-15 at 23.28.04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with:  KAP
